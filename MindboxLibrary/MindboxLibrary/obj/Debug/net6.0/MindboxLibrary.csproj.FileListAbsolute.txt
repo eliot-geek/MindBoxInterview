@@ -1,0 +1,12 @@
+C:\Users\leosa\OneDrive\Документы\Downloads\MindboxLibrary\MindboxLibrary\bin\Debug\net6.0\MindboxLibrary.deps.json
+C:\Users\leosa\OneDrive\Документы\Downloads\MindboxLibrary\MindboxLibrary\bin\Debug\net6.0\MindboxLibrary.dll
+C:\Users\leosa\OneDrive\Документы\Downloads\MindboxLibrary\MindboxLibrary\bin\Debug\net6.0\MindboxLibrary.pdb
+C:\Users\leosa\OneDrive\Документы\Downloads\MindboxLibrary\MindboxLibrary\obj\Debug\net6.0\MindboxLibrary.csproj.AssemblyReference.cache
+C:\Users\leosa\OneDrive\Документы\Downloads\MindboxLibrary\MindboxLibrary\obj\Debug\net6.0\MindboxLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\OneDrive\Документы\Downloads\MindboxLibrary\MindboxLibrary\obj\Debug\net6.0\MindboxLibrary.AssemblyInfoInputs.cache
+C:\Users\leosa\OneDrive\Документы\Downloads\MindboxLibrary\MindboxLibrary\obj\Debug\net6.0\MindboxLibrary.AssemblyInfo.cs
+C:\Users\leosa\OneDrive\Документы\Downloads\MindboxLibrary\MindboxLibrary\obj\Debug\net6.0\MindboxLibrary.csproj.CoreCompileInputs.cache
+C:\Users\leosa\OneDrive\Документы\Downloads\MindboxLibrary\MindboxLibrary\obj\Debug\net6.0\MindboxLibrary.dll
+C:\Users\leosa\OneDrive\Документы\Downloads\MindboxLibrary\MindboxLibrary\obj\Debug\net6.0\refint\MindboxLibrary.dll
+C:\Users\leosa\OneDrive\Документы\Downloads\MindboxLibrary\MindboxLibrary\obj\Debug\net6.0\MindboxLibrary.pdb
+C:\Users\leosa\OneDrive\Документы\Downloads\MindboxLibrary\MindboxLibrary\obj\Debug\net6.0\ref\MindboxLibrary.dll

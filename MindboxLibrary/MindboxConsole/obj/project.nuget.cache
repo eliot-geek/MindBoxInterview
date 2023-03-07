@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "cnOcS5nYp/3s+GiqS+yUHwtOh78pR8FzwGmhBWtufOOfKhUxs4TfrGW2pON32J/e8IPJF8xAiubRx4S+XaC5fQ==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\leosa\\OneDrive\\Документы\\Downloads\\MindboxLibrary\\MindboxConsole\\MindboxConsole.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1108",
+      "level": "Error",
+      "message": "Обнаружен цикл. \r\n  MindboxConsole -> TestLibrary -> TestLibrary.",
+      "libraryId": "TestLibrary",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
